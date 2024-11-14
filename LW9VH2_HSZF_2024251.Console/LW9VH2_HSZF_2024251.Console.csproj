@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Program.cs~RF1dd49881.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ConsoleMenu-simple" Version="2.7.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LW9VH2_HSZF_2024251.Application\LW9VH2_HSZF_2024251.Application.csproj" />
+    <ProjectReference Include="..\LW9VH2_HSZF_2024251.Model\LW9VH2_HSZF_2024251.Model.csproj" />
+    <ProjectReference Include="..\LW9VH2_HSZF_2024251.Persistence.MsSql\LW9VH2_HSZF_2024251.Persistence.MsSql.csproj" />
+  </ItemGroup>
+
+</Project>

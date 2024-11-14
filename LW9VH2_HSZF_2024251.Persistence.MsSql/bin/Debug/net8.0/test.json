@@ -1,0 +1,23 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": {
+        "id": 1,
+        "name": "F. Scott Fitzgerald",
+        "birth_year": 1896,
+        "nationality": "American"
+      },
+      "category": {
+        "id": 1,
+        "name": "Classic Literature",
+        "description": "Timeless works of fiction that have influenced modern culture"
+      },
+      "price": 10.99,
+      "publication_year": 1925,
+      "isbn": "9780743273565",
+      "pages": 180
+    }
+  ]
+}

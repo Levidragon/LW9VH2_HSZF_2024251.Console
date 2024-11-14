@@ -1,0 +1,14 @@
+E:\Egyetem\Féléves Feladat\LW9VH2_HSZF_2024251.Console\LW9VH2_HSZF_2024251.Model\bin\Debug\net8.0\LW9VH2_HSZF_2024251.Model.deps.json
+E:\Egyetem\Féléves Feladat\LW9VH2_HSZF_2024251.Console\LW9VH2_HSZF_2024251.Model\bin\Debug\net8.0\LW9VH2_HSZF_2024251.Model.runtimeconfig.json
+E:\Egyetem\Féléves Feladat\LW9VH2_HSZF_2024251.Console\LW9VH2_HSZF_2024251.Model\bin\Debug\net8.0\LW9VH2_HSZF_2024251.Model.dll
+E:\Egyetem\Féléves Feladat\LW9VH2_HSZF_2024251.Console\LW9VH2_HSZF_2024251.Model\bin\Debug\net8.0\LW9VH2_HSZF_2024251.Model.pdb
+E:\Egyetem\Féléves Feladat\LW9VH2_HSZF_2024251.Console\LW9VH2_HSZF_2024251.Model\obj\Debug\net8.0\LW9VH2_HSZF_2024251.Model.csproj.AssemblyReference.cache
+E:\Egyetem\Féléves Feladat\LW9VH2_HSZF_2024251.Console\LW9VH2_HSZF_2024251.Model\obj\Debug\net8.0\LW9VH2_HSZF_2024251.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Egyetem\Féléves Feladat\LW9VH2_HSZF_2024251.Console\LW9VH2_HSZF_2024251.Model\obj\Debug\net8.0\LW9VH2_HSZF_2024251.Model.AssemblyInfoInputs.cache
+E:\Egyetem\Féléves Feladat\LW9VH2_HSZF_2024251.Console\LW9VH2_HSZF_2024251.Model\obj\Debug\net8.0\LW9VH2_HSZF_2024251.Model.AssemblyInfo.cs
+E:\Egyetem\Féléves Feladat\LW9VH2_HSZF_2024251.Console\LW9VH2_HSZF_2024251.Model\obj\Debug\net8.0\LW9VH2_HSZF_2024251.Model.csproj.CoreCompileInputs.cache
+E:\Egyetem\Féléves Feladat\LW9VH2_HSZF_2024251.Console\LW9VH2_HSZF_2024251.Model\obj\Debug\net8.0\LW9VH2_HSZF_2024251.Model.dll
+E:\Egyetem\Féléves Feladat\LW9VH2_HSZF_2024251.Console\LW9VH2_HSZF_2024251.Model\obj\Debug\net8.0\refint\LW9VH2_HSZF_2024251.Model.dll
+E:\Egyetem\Féléves Feladat\LW9VH2_HSZF_2024251.Console\LW9VH2_HSZF_2024251.Model\obj\Debug\net8.0\LW9VH2_HSZF_2024251.Model.pdb
+E:\Egyetem\Féléves Feladat\LW9VH2_HSZF_2024251.Console\LW9VH2_HSZF_2024251.Model\obj\Debug\net8.0\LW9VH2_HSZF_2024251.Model.genruntimeconfig.cache
+E:\Egyetem\Féléves Feladat\LW9VH2_HSZF_2024251.Console\LW9VH2_HSZF_2024251.Model\obj\Debug\net8.0\ref\LW9VH2_HSZF_2024251.Model.dll
